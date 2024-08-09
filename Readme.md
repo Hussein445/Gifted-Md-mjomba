@@ -1,11 +1,15 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
+- ***NB: For Bot to run 24/7 Without Errors, Please Deploy Using Creds.json or Session ID Obtained from Replit Pairing***
+
 
 <details>
 <summary>𝐕𝐈𝐄𝐖 𝐂𝐇𝐀𝐍𝐆𝐄𝐋𝐎𝐆</summary>
   
-- 𝑩𝒐𝒕 𝑭𝒖𝒍𝒍𝒚 𝑩𝒖𝒕𝒕𝒐𝒏𝒆𝒅.
+- 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑩𝒖𝒕𝒕𝒐𝒏𝒔.
+- 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑴𝒆𝒏𝒖𝒔 𝒊𝒆 𝑪𝒐𝒅𝒊𝒏𝒈, +𝟏𝟖 𝒆𝒕𝒄
 - 𝑨𝒍𝒍 𝑫𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒆𝒓𝒔 𝑭𝒊𝒙𝒆𝒅 𝒂𝒏𝒅 𝒂𝒓𝒆 𝑾𝒐𝒓𝒌𝒊𝒏𝒈.
 - 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑺𝒊𝒕𝒆𝒔.
 - 𝑨𝒅𝒅𝒆𝒅 𝑴𝒐𝒓𝒆 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝑻𝒖𝒕𝒐𝒓𝒊𝒂𝒍𝒔.
@@ -72,10 +76,7 @@
 <a href="https://signup.heroku.com/login"><img src="https://img.shields.io/badge/HEROKU%20SIGNUP-purple" alt="Pairing Code" width="150"></a>
 
 <a href="https://youtu.be/3NpmjBUUBUc"><img src="https://img.shields.io/badge/WATCH%20TUTORIAL-white" alt="Pairing Code" width="150"></a>
-  
-```
-https://dashboard.heroku.com/new?template=https://github.com/mouricedevs/Gifted-Md
-```
+
 
 </details>
 
